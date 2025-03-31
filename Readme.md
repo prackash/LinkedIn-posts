@@ -22,7 +22,24 @@ Disclaimer:
 
 Now that all the disclaimer and intro to the topic are all done lets discuss the key misleading points that I have seen circulating all over LinkedIn.
 
+1. " 1 AI image = Up to X liters of water"
+
+I still have yet to see a trustable source which states an image being generated uses up X liter of water or any coolant. 
+
+If you have built a PC before you would also know that water cooled systems do not just spew out warm water out into the wild and intake fresh supply of water, rather it is a closed loop where the water is only used for heat exchange and is then cooled by a radiator which cools the water by dissipating the heat to the air around it [1]. Data centers use similar concept but far more complex [2]. So in a way the water consumption is minimum , way less that what it costs to make a pair of jeans (apparently it requires 11,000 or 7,600 liters of water for all the material requirements.) [3]. 
+
+The water required for image generation might be more of the water footprint than actual cost for cooling, which all semiconductors require, water footprint is very different from framing it as a cost, the more you use the hardware the less cost per image. Imagine this you buy a T-shirt which apparently costs around 2,000 liters [3], this isn't the same as saying "it costs me 2,000 liters to wear this once" rather the cost will depend on how many times you choose to wear it before recycling or reusing for something else.
+
+2. " Melting GPU's"
+
+Yes I am aware that Sam Altman mentioned that their GPU's are melting [4], however I believe it is supposed to be taken in a figurative sense as in how much demand has spiked. 
 
 
 
 
+References:
+
+[1] https://www.youtube.com/watch?v=y1gCWh-Km1U
+[2] https://www.youtube.com/watch?v=xBxyhxmhigc
+[3] https://sustainability.decathlon.com/why-does-it-take-so-much-water-to-make-a-cloth
+[4] https://x.com/sama/status/1905296867145154688
