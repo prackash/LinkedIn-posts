@@ -67,8 +67,6 @@ Don't let those kinds of post to guilt you for using these services for your non
 Many companies have tried to make some roles redundant and has backfired horribly [14] [15].
 
 
-
-
 References:
 
 [1] https://www.youtube.com/watch?v=y1gCWh-Km1U
