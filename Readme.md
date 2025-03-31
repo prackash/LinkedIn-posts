@@ -32,7 +32,7 @@ The water required for image generation might be more of the water footprint tha
 
 2. " Melting GPU's"
 
-Yes I am aware that Sam Altman mentioned that their GPU's are melting [4], however I believe it is supposed to be taken in a figurative sense as in how much demand has spiked. 
+Yes I am aware that Sam Altman mentioned that their GPU's are melting [4], however I believe it is supposed to be taken in a figurative sense as in how much demand has spiked than literally (you would be surprised many have taken it). 
 
 Do note Sam Altman has also posted that his team needs sleep and has requested to easy on image generation [5], if this to be taken literally as done on [4], then it would imply that a team is manually drawing it and sending (which is just irrational). Rather [5] is supposed to about the team working on the network traffic and resource usage.
 
