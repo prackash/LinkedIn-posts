@@ -34,6 +34,13 @@ The water required for image generation might be more of the water footprint tha
 
 Yes I am aware that Sam Altman mentioned that their GPU's are melting [4], however I believe it is supposed to be taken in a figurative sense as in how much demand has spiked. 
 
+Do note Sam Altman has also posted that his team needs sleep and has requested to easy on image generation [5], if this to be taken literally as done on [4], then it would imply that a team is manually drawing it and sending (which is just irrational). Rather [5] is supposed to about the team working on the network traffic and resource usage.
+
+Yes there has been cases of GPU "melt" from NVIDIA graphic cards, but do note that the GPU's aren't the ones that melted rather power cables [6]. GPU's or any computer electronic parts burn/fry when they overclocked too much (too put in simpler terms too much input voltage)[7]. 
+
+Can GPU's melt?
+Anything will melt if the heat is high enough, except things like wood which cannot fully melt[8]. 
+
 
 
 
@@ -43,3 +50,7 @@ References:
 [2] https://www.youtube.com/watch?v=xBxyhxmhigc
 [3] https://sustainability.decathlon.com/why-does-it-take-so-much-water-to-make-a-cloth
 [4] https://x.com/sama/status/1905296867145154688
+[5] https://x.com/sama/status/1906210479695126886
+[6] https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-power-cables-may-be-doomed-to-burn
+[7] https://umatechnology.org/how-to-fry-a-cpu/
+[8] https://www.scienceabc.com/eyeopeners/is-it-possible-to-melt-wood.html
