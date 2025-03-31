@@ -6,7 +6,7 @@ While their intentions may be good, it is yet another attempt to farm impression
 
 Disclaimer: 
 
-1. I am claiming all posts regarding AI image generators are just another slop for impression farming.
+1. I am claiming all posts regarding AI image generators are just another slop for impression farming or virtue signalling.
 
 2. AI Detectors are prone to false positives, do check on your own.
 
@@ -15,6 +15,8 @@ Disclaimer:
 4. I am writing this on my own without the use of AI, check using AI detectors  to confirm.
 
 5. I do not work for any of the AI image generating companies nor am I sponsored by any.
+
+6. Being a developer who believes in transparency by nature I used git to track and hosting this repository on GitHub so anyone could go and view the changes I have made :). 
 
 
 
