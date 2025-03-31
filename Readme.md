@@ -10,7 +10,7 @@ Disclaimer:
 
 2. AI Detectors are prone to false positives, do check on your own.
 
-3. I am not HVAC certified or a power management expert. However i do have experience building/working with PC's & GPU's
+3. I am not HVAC certified or a power management expert. However i do have experience building/working with AI models, PC's, & GPU's.
 
 4. I am writing this on my own without the use of AI, check using AI detectors  to confirm.
 
@@ -30,6 +30,8 @@ If you have built a PC before you would also know that water cooled systems do n
 
 The water required for image generation might be more of the water footprint than actual cost for cooling, which all semiconductors require, water footprint is very different from framing it as a cost, the more you use the hardware the less cost per image. Imagine this you buy a T-shirt which apparently costs around 2,000 liters [3], this isn't the same as saying "it costs me 2,000 liters to wear this once" rather the cost will depend on how many times you choose to wear it before recycling or reusing for something else.
 
+Remember all components of a machine has a water footprint from the Motherboard in your smartphones to the GPU's in the Data Centers.
+
 2. " Melting GPU's"
 
 Yes I am aware that Sam Altman mentioned that their GPU's are melting [4], however I believe it is supposed to be taken in a figurative sense as in how much demand has spiked than literally (you would be surprised many have taken it). 
@@ -44,13 +46,25 @@ Anything will melt if the heat is high enough, except things like wood which can
 3. Ghibli’s own co-founder calls AI art "an insult to life itself"
 
 Yes Miyazaki (Ghibli co-founder) has said those exact words, and I do agree with him. 
-But what everyone seems to gloss over is that he did not in fact say this about this Ghibli AI art trend, This quote was said by him over 8 years ago when their team showcased their AI model which learned certain movements without implicitly mentioning it to. These movements where very unlife like using the head as a limb [9]. Miyazaki did state that he refuses to use this model in his art as the output shown was created by someone who has no idea what pain is felt by those without limbs or those with muscle issues.
+But what everyone seems to gloss over is that he did not in fact say this about this Ghibli AI art trend, This quote was said by him over 8 years ago when their team showcased their AI model which learned certain movements without implicitly mentioning it to. These movements where very un-life like using the head as a limb [9]. Miyazaki did state that he refuses to use this model in his art as the output shown was created by someone who has no idea what pain is felt by those without limbs or those with muscle issues.
 
 I haven't found if Miyazaki has commented on this Ghibli AI art itself, Miyazaki has been against the usage of AI model in his work. I feel like this was a very important context that many have ignored.
+It is unsure if he is unhappy with people rejoicing with nostalgia using AI on images to replicate the studios style.
+
+
+
+Things you should take into consideration
+
+1. Ethical Problems:
+These models are trained on several images on the internet without explicitly getting consent from the artists, yes it is posted for free on sites like Pinterest, X (formerly Twitter), Instagram, Threads, Facebook, etc. but almost all website have a robots.txt file that is supposed to instruct bots that crawl about which pages they should and shouldn't access [10], but OpenAI has admitted that it is impossible for them to train their models without copyrighted material [11].
+
+2. Power Consumption:
+AI models run on GPU's an extremely powerful yet power hungry component, It is true that each request for image requires a lot of power (depending on the model used) which is directly proportional to the carbon emission. While the exact value of power consumed varies from source to source, some say 1,000 images consume on average of 2.907 kWh [12], while others say one image consumes anywhere from 0.01 to 0.29 kWh [13].
 
 
 Conclusion:
-Don't let those kinds of post to guilt you for using these services for your non-profitable hobby, use these tools ethically.
+Don't let those kinds of post to guilt you for using these services for your non-profitable hobby, use these tools ethically. Compensate artists if you are using to monetise something and generate AI images when you need to, maybe as means of expressing your idea in a slideshow or something that needs to be done quick. Remember to use AI as tool which can aid you, it is not meant to completely eradiate someone's role. 
+Many companies have tried to make some roles redundant and has backfired horribly [14] [15].
 
 
 
@@ -66,3 +80,9 @@ References:
 [7] https://umatechnology.org/how-to-fry-a-cpu/
 [8] https://www.scienceabc.com/eyeopeners/is-it-possible-to-melt-wood.html
 [9] https://www.youtube.com/watch?v=ngZ0K3lWKRc
+[10] https://developers.google.com/search/docs/crawling-indexing/robots/intro
+[11] https://www.engadget.com/openai-admits-its-impossible-to-train-generative-ai-without-copyrighted-materials-103311496.html
+[12] https://futurism.com/the-byte/power-generate-single-ai-image
+[13] https://mcengkuru.medium.com/the-hidden-cost-of-ai-images-how-generating-one-could-power-your-fridge-for-hours-174c95c43db8
+[14] https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html
+[15] https://www.evidentlyai.com/blog/ai-failures-examples
