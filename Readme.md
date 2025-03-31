@@ -41,6 +41,17 @@ Yes there has been cases of GPU "melt" from NVIDIA graphic cards, but do note th
 Can GPU's melt?
 Anything will melt if the heat is high enough, except things like wood which cannot fully melt[8]. 
 
+3. Ghibli’s own co-founder calls AI art "an insult to life itself"
+
+Yes Miyazaki (Ghibli co-founder) has said those exact words, and I do agree with him. 
+But what everyone seems to gloss over is that he did not in fact say this about this Ghibli AI art trend, This quote was said by him over 8 years ago when their team showcased their AI model which learned certain movements without implicitly mentioning it to. These movements where very unlife like using the head as a limb [9]. Miyazaki did state that he refuses to use this model in his art as the output shown was created by someone who has no idea what pain is felt by those without limbs or those with muscle issues.
+
+I haven't found if Miyazaki has commented on this Ghibli AI art itself, Miyazaki has been against the usage of AI model in his work. I feel like this was a very important context that many have ignored.
+
+
+Conclusion:
+Don't let those kinds of post to guilt you for using these services for your non-profitable hobby, use these tools ethically.
+
 
 
 
@@ -54,3 +65,4 @@ References:
 [6] https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-power-cables-may-be-doomed-to-burn
 [7] https://umatechnology.org/how-to-fry-a-cpu/
 [8] https://www.scienceabc.com/eyeopeners/is-it-possible-to-melt-wood.html
+[9] https://www.youtube.com/watch?v=ngZ0K3lWKRc
